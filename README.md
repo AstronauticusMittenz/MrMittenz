@@ -4,9 +4,14 @@
 
 0xb73f00feeafc232c247516aa180261fec0e909fc. Verify and add to wallet watch list at [Etherscan.io](https://etherscan.io/token/0xb73f00feeafc232c247516aa180261fec0e909fc)
 
-## SushiswapVision
+## DeFi Exchange Links
 
-[$MITTN-$ETH pair](https://sushiswap.vision/pair/0xf5bd7629ff67cb49f568e79cec4a1f4a891f4658) on SushiSwap Vision.(https://sushiswap.vision/pair/0xf5bd7629ff67cb49f568e79cec4a1f4a891f4658)
+* [$MITTN-$ETH on SushiSwap](https://app.sushi.com/swap?inputCurrency=0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2&outputCurrency=0xb73f00feeafc232c247516aa180261fec0e909fc)
+* [$MITTN-$ETH on 1inch](https://app.1inch.io/#/1/swap/ETH/MITTN)
+
+## Info
+
+$MITTN-$ETH pair on [SushiSwap Vision](https://sushiswap.vision/pair/0xf5bd7629ff67cb49f568e79cec4a1f4a891f4658).
 
 ## Website
 
