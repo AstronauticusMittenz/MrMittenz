@@ -1,4 +1,6 @@
-# Mr Mittenz ($MITTN)
+# Mr Mittenz (MITTN)
+
+![](https://i.imgur.com/auY3aYd.png)
 
 ## Contract 
 
@@ -6,12 +8,12 @@
 
 ## DeFi Exchange Links
 
-* [$MITTN-$ETH on SushiSwap](https://app.sushi.com/swap?inputCurrency=ETH&outputCurrency=0xb73f00feeafc232c247516aa180261fec0e909fc)
-* [$MITTN-$ETH on 1inch](https://app.1inch.io/#/1/swap/ETH/MITTN)
+* [MITTN-ETH on SushiSwap](https://app.sushi.com/swap?inputCurrency=ETH&outputCurrency=0xb73f00feeafc232c247516aa180261fec0e909fc)
+* [MITTN-ETH on 1inch](https://app.1inch.io/#/1/swap/ETH/MITTN)
 
 ## Info
 
-$MITTN-$ETH pair on [SushiSwap Vision](https://sushiswap.vision/pair/0xf5bd7629ff67cb49f568e79cec4a1f4a891f4658).
+MITTN-ETH pair on [SushiSwap Vision](https://sushiswap.vision/pair/0xf5bd7629ff67cb49f568e79cec4a1f4a891f4658).
 
 ## Website
 
