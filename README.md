@@ -6,7 +6,7 @@
 
 ## DeFi Exchange Links
 
-* [$MITTN-$ETH on SushiSwap](https://app.sushi.com/swap?inputCurrency=0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2&outputCurrency=0xb73f00feeafc232c247516aa180261fec0e909fc)
+* [$MITTN-$ETH on SushiSwap](https://app.sushi.com/swap?inputCurrency=ETH&outputCurrency=0xb73f00feeafc232c247516aa180261fec0e909fc)
 * [$MITTN-$ETH on 1inch](https://app.1inch.io/#/1/swap/ETH/MITTN)
 
 ## Info
