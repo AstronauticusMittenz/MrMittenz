@@ -1,6 +1,6 @@
 # Mr Mittenz (MITTN)
 
-![](https://https://i.imgur.com/5IidlwO.png)
+![](https://i.imgur.com/5IidlwO.png)
 
 ## Contract 
 
