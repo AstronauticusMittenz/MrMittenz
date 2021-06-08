@@ -22,7 +22,3 @@ MITTN-ETH pair on [SushiSwap Vision](https://sushiswap.vision/pair/0xf5bd7629ff6
 ## White Paper
 
 **Coming soon**
-
-# Kissa (KISSA)
-
-In development.
